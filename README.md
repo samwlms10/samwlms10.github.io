@@ -10,8 +10,34 @@ Welcome to my Portfolio for the Computer Science program at SNHU!
 4 - Algorithms and Data Structure  
 5 - Databases  
 
-### Professional Self Assessment
-
+### Professional Self Assessment  
+Throughout my time here at SNHU, the computer science program has taught me many 
+things.  I have developed a strong foundation in building, evaluating, and 
+improving software systems through writing clean maintainable and safe code.  
+I have also learned to think like a programmer from the start of building a system, 
+like the breaking down big problems into small problems, to the end of the systems 
+through after deployment security.  Going through the courses and working with 
+multiple projects has taught me there are many different facets of computer science 
+and all of them work and flow together to make a whole system/application.  It also
+has given me an idea of where I want to take my next steps in the computer science 
+world and devote my time learning all about it.
+While in this program I have gained experience by working on projects that involve 
+a team and stakeholder constraints that must be met.  Through discussion posts, 
+planning phases, and code reviews have strengthened my ability to communicate 
+technical concepts clearly and adapt my communication depending on the audience I 
+am in front of.
+I have not only built the skills of communicating, but also from the technical side, 
+have developed the skills in data structures and algorithms, and software 
+engineering and database development.  I did this by writing cod that not only met 
+the performance standards but also was readable and maintainable as well.  
+Throughout this whole program I have also developed a security mindset and have put 
+the forefront when designing the system.  Through planning I try to make sure to 
+mitigate any risks that I see and try to plan for risks through testing.
+The artifacts included below represent my journey through the computer science 
+program here at SNHU and represent my growth as a developer.  It shows my ability
+to design software, apply algorithmic thinking, work with databases, and my approach 
+in developing a security focused mindset.  
+  
 ### Code Review
 Below is a link to my YouTube channel where I have posted my Code Review.  
 In this code review I go through the code base of the Animal Shelter Dashboard  
