@@ -16,7 +16,7 @@ Welcome to my Portfolio for the Computer Science program at SNHU!
 Below is a link to my YouTube channel where I have posted my Code Review.  
 In this code review I go through the code base of the Animal Shelter Dashboard  
 and where I see can use improvments.  
-[Code Review](https://youtu.be/iIicrAOqNUE)
+[Code Review](https://youtu.be/iIicrAOqNUE)  
 Below now are the improvements that were made and why they were made for each category.  
   
 ### Software Design and Engineering
